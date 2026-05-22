@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<html>
 <html lang="id" class="scroll-smooth">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Undangan Pernikahan Sekar & Danu</title>
+  <title>Undangan Pernikahan Retno & Danu</title>
   
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -138,7 +138,7 @@
         <div class="inline-block px-8 py-3 bg-[#ffffffa0] border border-[#c3a473]/30 rounded-xl shadow-sm">
           <p id="guest-name" class="font-serif-elegant font-semibold text-xl text-[#544330]">Bapak/Ibu/Saudara/i</p>
         </div>
-        <p class="text-[10px] text-[#8c7b68] italic mt-2">*Mohon maaf bila ada kesalahan penulisan nama/gelar</p>
+        <p class="text-[10px] text-[#8c7b68] italic mt-2">Sutono</p>
       </div>
 
       <!-- Tombol Interaktif Buka Undangan -->
